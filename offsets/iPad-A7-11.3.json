@@ -1,0 +1,18 @@
+{
+  "padding": 32,
+  "vtable": 6606661640,
+  "disableprimitivegigacage": 6582020052,
+  "callbacks": 7293474456,
+  "g_gigacagebaseptrs": 7270973440,
+  "g_typedarraypoisons": 7293474592,
+  "longjmp": 6454060920,
+  "dlsym": 6451163024,
+  "startfixedmempool": 7293472952,
+  "endfixedmempool": 7293472960,
+  "jit_writeseperateheaps_func": 7293472968,
+  "usefastpermissions_jitcopy": 7270957080,
+  "ptr_stack_check_guard": 7292796664,
+  "modelio_popx8": 6663660900,
+  "coreaudio_popx2": 6510206396,
+  "linkcode_gadget": 6572284028
+}
